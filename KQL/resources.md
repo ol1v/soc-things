@@ -24,6 +24,7 @@ Add names if known? Description?
 - https://github.com/samilamppu/Sentinel-queries | 4 | include blog
 - https://github.com/cyb3rmik3/KQL-threat-hunting-queries | 4
 - https://github.com/SlimKQL/Hunting-Queries-Detection-Rules | 5
+- https://github.com/EEN421/KQL-Queries | 5 | lots of queries with focus on cost and operational things
 
   
 - https://github.com/cyb3rmik3/MDE-DFIR-Resources | resources for MDE DFIR 
